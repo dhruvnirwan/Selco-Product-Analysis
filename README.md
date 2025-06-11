@@ -21,8 +21,7 @@ It helps production managers and decision-makers **monitor KPIs** like cost, tas
 
 > 📍 *Complete View of the Excel-Based SELCO Production Dashboard*
 
-![SELCO Dashboard Screenshot](![image](https://github.com/user-attachments/assets/489ae8ef-35b5-4ff1-966c-82c9ae7a8cb2)
-)
+![image](https://github.com/user-attachments/assets/744bb5ab-415c-41f1-a6a0-2f7acb177fcf)
 
 ---
 
